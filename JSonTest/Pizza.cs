@@ -6,9 +6,17 @@ using System.Threading.Tasks;
 
 namespace JSonTest
 {
-    class Pizza
-    {
+    class Pizza { 
+    
+        private int number;
 
+        private string name;
+
+        private bool isDeepPan;
+
+        private string[] content;
+
+        private double price;
         
     }
 }
